@@ -8,10 +8,10 @@ _Repositório de Ideias e Soluções._
 - [Provas](#Provas)
 
 ### Aleatórios
-- Entrada
-- Loginn
-- Maior
-- Return
+- [Entrada](./Aleatorios/Aleatorios)
+- [Login](./Aleatorios/Loginn.py)
+- [Maior](./Aleatorios/Maior_tuple.py)
+- [Return](./Aleatorios/Return_2.py)
 
 ### Desafios
 - Aleatórios
