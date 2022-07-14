@@ -18,6 +18,7 @@ _Repositório de Ideias e Soluções._
     - Conversão de Base
     - Jogo da Velha
     - Maior Valor
+    - Torre de Hanói
     - Validar CPF
 - Funções String
     - Contador de Caracteres
@@ -34,6 +35,8 @@ _Repositório de Ideias e Soluções._
     - Felipe Bank
     - Retete
 - Prova 03
-    -
-    -
-    -
+    - Combinador de String
+    - Conversão de Segundos
+    - Maior e Menor
+    - Media Ponderada e Aritmética
+    - Mês Extenso
