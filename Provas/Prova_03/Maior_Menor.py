@@ -7,7 +7,7 @@ def maior_menor():
     for i in lista:
         if maior < i:
             maior = i
-        else:
+        elif menor > i:
             menor = i
     return print(f"Maior valor da lista é {maior}, e o menor valor é: {menor}.")
 
