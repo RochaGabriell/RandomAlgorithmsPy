@@ -20,14 +20,6 @@ _Repositório de Ideias e Soluções._
     - [Maior Valor](./Desafios/Aleatorios/Maior_Valor.py)
     - [Torre de Hanói](./Desafios/Aleatorios/Torre_Hanoi.py)
     - [Validar CPF](./Desafios/Aleatorios/Validar_CPF.py)
-- Funções String
-    - [Contador de Caracteres](./Desafios/Funcoes_String/Contador_Caracteres.py)
-    - [Converter Maiúsculas e Minúsculas](./Desafios/Funcoes_String/Converter_Maiusc_Minusc.py)
-    - [Dividir String](./Desafios/Funcoes_String/Dividir_String.py)
-    - [Informações de Caracter](./Desafios/Funcoes_String/Informacoes_Caracter.py)
-    - [Main](./Desafios/Funcoes_String/Main.py)
-    - [Contador de Ocorrência de Palavra](./Desafios/Funcoes_String/Ocorrencia_Texto.py)
-    - [Ordem Alfabética](./Desafios/Funcoes_String/Ordem_Alfabetica.py)
 
 ### Provas
 - Prova 02
